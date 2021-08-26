@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ContentProviderDemo" />
+            <option value="$PROJECT_DIR$/FragmentDemo" />
             <option value="$PROJECT_DIR$/databaseprovider" />
           </set>
         </option>

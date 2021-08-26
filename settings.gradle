@@ -1,3 +1,4 @@
 rootProject.name = "Android四大组件"
 include ':ContentProviderDemo'
 include ':databaseprovider'
+include ':FragmentDemo'
