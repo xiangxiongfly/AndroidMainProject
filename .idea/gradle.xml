@@ -10,9 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ContentProviderDemo" />
-            <option value="$PROJECT_DIR$/FragmentDemo" />
+            <option value="$PROJECT_DIR$/Activity" />
+            <option value="$PROJECT_DIR$/ActivityResultContractDemo" />
+            <option value="$PROJECT_DIR$/ContentProvider" />
+            <option value="$PROJECT_DIR$/Fragment" />
             <option value="$PROJECT_DIR$/databaseprovider" />
+            <option value="$PROJECT_DIR$/other" />
+            <option value="$PROJECT_DIR$/utils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

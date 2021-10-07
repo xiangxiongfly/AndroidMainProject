@@ -1,4 +1,8 @@
-rootProject.name = "Android四大组件"
-include ':ContentProviderDemo'
+rootProject.name = "Android四大组件及Fragment"
+include ':ContentProvider'
 include ':databaseprovider'
-include ':FragmentDemo'
+include ':Fragment'
+include ':Activity'
+include ':utils'
+include ':other'
+include ':ActivityResultContractDemo'
